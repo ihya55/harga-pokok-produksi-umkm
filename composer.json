@@ -1,0 +1,13 @@
+{
+  "name": "hpp/aplikasi",
+  "type": "project",
+  "require": {
+    "php": "^8.3",
+    "illuminate/database": "*"
+  },
+  "autoload": {
+    "classmap": [
+      "orm/"
+    ]
+  }
+}
